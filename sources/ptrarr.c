@@ -1,7 +1,5 @@
 #include "ptrarr.h"
 
-#include <stdlib.h>
-
 static const int STEP_SIZE = 10;
 
 Ptrarr *pa_init() {

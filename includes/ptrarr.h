@@ -1,6 +1,8 @@
 #ifndef PTRARR_H
 #define PTRARR_H
 
+#include <stdlib.h>
+
 typedef struct Ptrarr {
     void *arr;
     size_t len;
